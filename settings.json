@@ -1,12 +1,12 @@
 {
-  "name": "MrSuiii",
+  "name": "MochitoFr",
   "bot-account": {
-    "username": "MrSuiii",
+    "username": "MochitoFr",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Play-SuiiSmp.aternos.me",
+    "ip": "TanGamesTB.aternos.me",
     "port": 34266,
     "version": "1.20.1",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hello Guys Im owner of this server",
-       "/skin set TechnoBlade",
+        "/skin set TechnoBlade",
+       "Hello Guys Im Co owner of this server",
         "/gmc",
         "Bhai log sab apne dosto ko balake khelo maja ayega",
         "Bhai log pls dont mind mene apna chat ignore kara hua hai isisliye mujhe kisika chat nhi dikhraha"
