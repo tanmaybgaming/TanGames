@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Herobrine",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Herobrine",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Play-SuiiSmp.aternos.me",
+    "port": 34266,
     "version": "1.20.1",
     "try-creative": false
   },
