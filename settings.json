@@ -1,7 +1,7 @@
 {
-  "name": "SenpaiSpider",
+  "name": "MrSuiii",
   "bot-account": {
-    "username": "SenpaiSpider",
+    "username": "MrSuiii",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Yooo im here ab kiya karu",
+        "Hello Guys Im owner of this server",
         "/gmc",
-        "Yoo everyone"
+        "Bhai log sab apne dosto ko balake khelo maja ayega"
+        "Bhai log pls dont mind mene apna chat ignore kara hua hai isisliye mujhe kisika chat nhi dikhraha"
       ]
     },
     "chat-log": true,
@@ -50,7 +51,7 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 1000
     },
     "random-jump": {
       "enabled": true,
