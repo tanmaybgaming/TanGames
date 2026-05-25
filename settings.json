@@ -31,11 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/skin set TechnoBlade",
-       "Yoo Guys Send me tps i will accept after some mints",
-        "/tpaccept",
-        "/gmc",
-        "/gms"
+        "/warp Parkour",
       ]
     },
     "chat-log": true,
