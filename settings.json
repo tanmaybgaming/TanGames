@@ -1,7 +1,7 @@
 {
-  "name": "MochitoFr",
+  "name": "TanGames",
   "bot-account": {
-    "username": "MochitoFr",
+    "username": "TanGames",
     "password": "",
     "type": "offline"
   },
@@ -32,10 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "/skin set TechnoBlade",
-       "Hello Guys Im Co owner of this server",
+       "Yoo Guys Send me tps i will accept after some mints",
+        "/tpaccept",
         "/gmc",
-        "Bhai log sab apne dosto ko balake khelo maja ayega",
-        "Bhai log pls dont mind mene apna chat ignore kara hua hai isisliye mujhe kisika chat nhi dikhraha"
+        "/gms"
       ]
     },
     "chat-log": true,
@@ -47,7 +47,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 10,
       "speed": 3000
     },
     "look-around": {
@@ -56,11 +56,11 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": false,
     "chat": true,
